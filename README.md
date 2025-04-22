@@ -1,6 +1,5 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
-<img src="https://socialify.git.ci/TeamCompileError/CraftMyCv/image?description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="CraftMyCv" width="1150" />
 
 <div align="center">
 
