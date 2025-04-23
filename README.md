@@ -320,25 +320,3 @@ Join the mission! Here's how:
 ## 📄 **License**  
 
 This project is licensed under the [MIT License](https://github.com/TeamCompileError/CraftMyCv/blob/main/LICENSE).  
-
-
-## 🌟 **GitHub Repo**  
-
-Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [CraftMyCv Repository](https://github.com/TeamCompileError/CraftMyCv)  
-
-## 🛡️ Maintainer  
-
-> **_This repository is maintained by [Team Compile Error](https://github.com/TeamCompileError)._**  
-> Have suggestions? Feel free to reach out to [us via email](mailto:sangamparmar94@gmail.com). 📧
-
-
-## 💖 **How You Can Support**
-
-If you appreciate this repository and want to show your support, you can do so through these platforms:
-
-| ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/TeamCompileError)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/)                 |
-
-**Thank you for your support! Every bit helps keep this repository going.** 🌈✨
