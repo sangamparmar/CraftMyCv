@@ -1,6 +1,3 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
-
-
 <div align="center">
 
 #  **🏝️ CraftMyCv 🏝️**  
